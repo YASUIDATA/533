@@ -1,0 +1,1 @@
+vless://68c7ea18-4d58-43a3-acae-bd56e99d4e59@5.104.80.188:26770?type=tcp&path=%2F&host=povo.jp&headerType=http&security=none#AU%20Slow-NNT%20533
